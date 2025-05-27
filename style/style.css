@@ -1,0 +1,63 @@
+ul {
+  list-style-type: none;
+  display: inline-block;
+  position: relative;
+  right: -30vw;
+  color: white;
+}
+svg {
+  position: relative;
+  right: -20px;
+}
+#uyi {
+  position: relative;
+  right: 1vw;
+}
+#poi {
+  position: relative;
+  right: -50vw;
+  top: -10px;
+}
+#uyt {
+  background-color: rgb(150, 142, 142);
+  position:relative;
+  right: -800px;
+}
+#lkj {
+  background-color: rgb(216, 204, 204);
+  color: purple;
+  position: relative;
+  right: 150px;
+}
+body {
+  background-image: url(../image/web.webp);
+  background-size: cover;
+  background-position:-1px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+
+p {
+  color: white;
+}
+button {
+  border: none;
+  width: 310px;
+  height: 50px;
+  border-radius: 15px;
+  position: relative;
+  right: -41vw;
+  bottom: -30vh;
+}
+
+#pop {
+  width: 25vw;
+  position: relative;
+  right: -38vw;
+  text-align: center;
+}
+
+
+img {
+  border-radius: 50px;
+}
